@@ -1,18 +1,17 @@
 # Numerical methods of solving nonlinear equations $f(x)=0$
-Notebook containing the main numerical methods of solving non-linear equations f(x)=0 with examples.\
-(Comments are in French)
+Implementation of main numerical methods for solving non-linear equations f(x)=0 with examples.
 
 1. Bisection method
 2. Secant method
 3. Newton's method
 4. Fixed point method
 
-## Require
-1. Python 3.x
-2. Jupyter Notebook
-3. Matplotlib
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Matplotlib
 
-I wil implement other methods later: \
+## References
 https://en.wikipedia.org/wiki/Root-finding_algorithm
 
 # Méthodes numériques de résolution d'équations non linéaires $f(x)=0$
