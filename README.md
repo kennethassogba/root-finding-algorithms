@@ -11,6 +11,6 @@ Try launching the notebooks directly in your browser using Github's Codespaces!
 
 ## References
 
-- . G.E. Karniadakis and R.M. Kirby, “Parallel Scientific Computing in C++ and MPI”, Cambridge University Press, March 2003.
+- G.E. Karniadakis and R.M. Kirby, “Parallel Scientific Computing in C++ and MPI”, Cambridge University Press, March 2003.
 
 - <https://en.wikipedia.org/wiki/Root-finding_algorithm>
