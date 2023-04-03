@@ -1,6 +1,6 @@
 # Root finding algorithms
 
-Implementation of main numerical methods for solving non-linear equations f(x)=0. In English and French (fr) with examples.
+Implementation of main numerical methods for solving non-linear equations f(x)=0. In English and French with examples.
 
 1. Bisection method
 2. Secant method
